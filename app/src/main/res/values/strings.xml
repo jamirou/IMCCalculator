@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">xmlExercise3</string>
+    <string name="woman">Mujer</string>
+    <string name="man">Hombre</string>
+    <string name="height">Altura</string>
+    <string name="weight">peso</string>
+    <string name="Age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Resultado</string>
+    <string name="re_calculate">Re-calcular</string>
+
+    <string name="error">Error</string>
+
+    <string name="bajo_peso">Bajo peso</string>
+    <string name="description_bajo">Estas por debajo de lo normal, debido a tu peso y altura. Lo normal y sano es: 18.51..24.99</string>
+
+    <string name="peso_normal">Peso normal</string>
+    <string name="description_normal">Tu IMC es completamente normal y sano. Sigue asi!</string>
+
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="description_sobrepeso">Estas por arriba de lo normal, debido a tu peso y altura. Lo normal y sano es: 18.51..24.99</string>
+
+    <string name="obesidad">Obesidad</string>
+    <string name="description_obesidad">Estas por MUY arriba de lo normal, debido a tu peso y altura. Lo normal y sano es: 18.51..24.99</string>
+
+
 </resources>
