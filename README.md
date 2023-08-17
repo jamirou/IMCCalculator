@@ -10,8 +10,8 @@ Esta es una aplicación simple para Android desarrollada utilizando Kotlin y XML
 
 ## Capturas de Pantalla
 
-![Pantalla de la Calculadora](/screenshots/calculator_screen.png "Pantalla de la Calculadora")
-![Pantalla de Resultados](/screenshots/result_screen.png "Pantalla de Resultados")
+<img src="capture.png" alt="Pantalla de la Calculadora" width="800"/> 
+<img src="result.png" alt="Pantalla de Resultados" width="800"/>
 
 ## Cómo Utilizar
 
